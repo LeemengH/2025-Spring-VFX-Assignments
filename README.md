@@ -5,9 +5,9 @@
 
 - # Assignments
 
-## 🔗 High Dynamic Range Imaging
-- [repo](https://github.com/LeemengH/VFX-Project1-HDR)
+## 🔗 Project 1
+- High Dynamic Range Imaging: [repo](https://github.com/LeemengH/VFX-Project1-HDR)
 
-## 🔗 Image stitching
-- [repo](https://github.com/clarence1121/VFX-Project2-image-stitching)
+## 🔗 Project 2
+- Image stitching: [repo](https://github.com/clarence1121/VFX-Project2-image-stitching)
 
